@@ -1,0 +1,10 @@
+venv/
+.idea/
+*.pyc
+__pycache__
+__pycache__/
+*__pycache__*
+*pycache
+tokens.py
+/tokens.py
+.tokens
